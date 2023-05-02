@@ -1,6 +1,4 @@
 # my-notes
-# my notes
-
 
 
 ## Hello,
