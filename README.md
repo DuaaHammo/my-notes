@@ -1,4 +1,5 @@
-# my-notes
+# my notes
+
 
 
 ## Hello,
@@ -8,7 +9,7 @@
  
 - Thise is **My logo**  
 
- ![thise is my callegraph](https://drive.google.com/file/d/1Mw86V0iCL1pKLGLIfJ0_434DVvubMfwO/view?usp=sharing) 
+ ![thise is **My logo**](https://mir-s3-cdn-cf.behance.net/user/230/329b56427103845.63fd2fa137d89.jpg) 
 
  - Also this is my portfolio [My Portfolio](https://duaahammo.myportfolio.com/welcome-page)
 
