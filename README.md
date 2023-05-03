@@ -11,7 +11,7 @@
 
  ![thise is **My logo**](https://mir-s3-cdn-cf.behance.net/user/230/329b56427103845.63fd2fa137d89.jpg) 
 
- - Also this is my portfolio [My Portfolio](https://duaahammo.myportfolio.com/welcome-page)
+ - Also this is [My Portfolio](https://duaahammo.myportfolio.com/welcome-page)
 
  - I have some experience in basically UI and a lot of social media strategy, I like designing branding logo, I worked in the agency as a freelance, but now I'll learn a UX UI in the asac.
   
